@@ -1,0 +1,50 @@
+{
+	"name": "Kurama Foxes #1157",
+	"symbol": "KF",
+	"description": "Kurama Foxes are an exclusive genesis collection of 1234 NFTs on the Solana blockchain. The project brings a lot of utility. With daily token airdrops for holders, a breeding mechanic and exclusive holders utility such as exclusive merch, giveaways and free airdrops.",
+	"seller_fee_basis_points": 800,
+	"image": "9.gif",
+	"external_url": "",
+	"edition": 1157,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Synth"
+		},
+		{
+			"trait_type": "Base",
+			"value": "Synth"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Synth"
+		},
+		{
+			"trait_type": "Eye",
+			"value": "Synth"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Synth"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Synth"
+		}
+	],
+	"properties": {
+		"files": [
+			{
+				"uri": "9.gif",
+				"type": "image/gif"
+			}
+		],
+		"category": "image",
+		"creators": [
+			{
+				"address": "4Kj5b8YE2SYuDdC7DnecGuYTRSsNymCscBdZaKY4eNwL",
+				"share": 100
+			}
+		]
+	}
+}
