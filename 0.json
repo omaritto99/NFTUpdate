@@ -1,50 +1,50 @@
 {
-  "name": "Kurama Foxes #0",
-  "symbol": "KF",
-  "description": "Kurama Foxes are an exclusive genesis collection of 1234 NFTs on the Solana blockchain. The project brings a lot of utility. With daily token airdrops for holders, a breeding mechanic and exclusive holders utility such as exclusive merch, giveaways and free airdrops.",
-  "seller_fee_basis_points": 800,
-  "image": "0.gif",
-  "external_url": "",
-  "edition": 0,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Frost"
-    },
-    {
-      "trait_type": "Base",
-      "value": "Frost"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Frost"
-    },
-    {
-      "trait_type": "Eye",
-      "value": "Frost"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Frost"
-    },
-    {
-      "trait_type": "Tail",
-      "value": "Frost"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "0.gif",
-        "type": "image/gif"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "4Kj5b8YE2SYuDdC7DnecGuYTRSsNymCscBdZaKY4eNwL",
-        "share": 100
-      }
-    ]
-  }
+	"name": "Kurama Foxes #0",
+	"symbol": "KF",
+	"description": "Kurama Foxes are an exclusive genesis collection of 1234 NFTs on the Solana blockchain. The project brings a lot of utility. With daily token airdrops for holders, a breeding mechanic and exclusive holders utility such as exclusive merch, giveaways and free airdrops.",
+	"seller_fee_basis_points": 800,
+	"image": "https://raw.githubusercontent.com/omaritto99/NFTUpdate/main/0.gif",
+	"external_url": "",
+	"edition": 0,
+	"attributes": [
+		{
+			"trait_type": "Background",
+			"value": "Frost"
+		},
+		{
+			"trait_type": "Base",
+			"value": "Frost"
+		},
+		{
+			"trait_type": "Body",
+			"value": "Frost"
+		},
+		{
+			"trait_type": "Eye",
+			"value": "Frost"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Frost"
+		},
+		{
+			"trait_type": "Tail",
+			"value": "Frost"
+		}
+	],
+	"properties": {
+		"files": [
+			{
+				"uri": "https://raw.githubusercontent.com/omaritto99/NFTUpdate/main/0.gif",
+				"type": "image/gif"
+			}
+		],
+		"category": "image",
+		"creators": [
+			{
+				"address": "4Kj5b8YE2SYuDdC7DnecGuYTRSsNymCscBdZaKY4eNwL",
+				"share": 100
+			}
+		]
+	}
 }
